@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T23:03:17.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.714 Yowser/2.5 Safari/537.36" etag="kLCDb3q1hNQIELok2aj3" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T23:04:01.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.714 Yowser/2.5 Safari/537.36" etag="9cfZC820MjlpgRsE9elD" version="21.4.0" type="github">
   <diagram name="Страница 1" id="u1EENSecaINZD0dG0JY7">
     <mxGraphModel dx="856" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="uRclO512TGwWUuSaFUnP-28" value="Что произойдет при &lt;br&gt;экстремальных температурах?&lt;br&gt;Что произойдете если наступить&amp;nbsp;&lt;br&gt;на зубную щетку?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uRclO512TGwWUuSaFUnP-18">
           <mxGeometry x="-5" y="20" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uRclO512TGwWUuSaFUnP-49" value="performance" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uRclO512TGwWUuSaFUnP-49" value="Accessibility&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Arial;&lt;br/&gt;mso-ansi-language:#0019;mso-fareast-language:RU;mso-bidi-language:AR-SA&quot; lang=&quot;ru&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="660" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uRclO512TGwWUuSaFUnP-50" value="Понятен ли объект для&lt;br&gt;использования без инструкций" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uRclO512TGwWUuSaFUnP-49">
